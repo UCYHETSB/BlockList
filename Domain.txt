@@ -879,3 +879,10 @@ geoplugin.net
 z2.ink
 paste.ee
 sembe.duckdns.org
+mircoupdate.https443.net
+icy-bar-c375.microsoft-updates.workers.dev
+sitennews.com
+update-chrome.realgodad.workers.dev
+track.cdn78544.ru
+cdn7854.workers.dev
+shrill-tooth-b557.vgfjuic.workers.dev
