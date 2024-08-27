@@ -886,3 +886,5 @@ update-chrome.realgodad.workers.dev
 track.cdn78544.ru
 cdn7854.workers.dev
 shrill-tooth-b557.vgfjuic.workers.dev
+kenesrakishevinfo.com
+master-repogen.vercel.app
